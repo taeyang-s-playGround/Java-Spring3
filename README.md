@@ -14,6 +14,7 @@ Java 23
 - 문서에서 마크다운 문법 적용 가능
 - Vector API 사용 가능
 - 쉽게 다른 모듈을 가져 올 수 있음
+- 
       예 : import module M;
 -  Improved Value Objects 추가 (Value Objects의 성능과 사용성 개선)
 -  문자열 템플릿 기능이 정식으로 도입됨
