@@ -24,3 +24,5 @@ Java 23
 https://symflower.com/en/company/blog/2024/what-is-new-in-java-23/
 https://thebasics.tistory.com/m/67
 https://revf.tistory.com/260
+
+java23 버전 설치 및 환경 변수 변경
